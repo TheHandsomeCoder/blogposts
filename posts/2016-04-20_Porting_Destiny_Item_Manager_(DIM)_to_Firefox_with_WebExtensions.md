@@ -6,6 +6,7 @@ As of 2016-04-16 Web Extensions are available in Firefox 45 in an alpha state. N
 # Initial Preparation 
 * Firstly we need a copy of Firefox. I chose the [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) but any version after version 45 should work.
 * Secondly we need a copy of DIM itself `git clone https://github.com/DestinyItemManager/DIM.git`
+* Third, save this to git
 
 
 
